@@ -1,2 +1,0 @@
-# polyrize
-Python task

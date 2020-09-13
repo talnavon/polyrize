@@ -1,0 +1,4 @@
+sanic
+sanic_jwt_extended
+sanic_jwt
+pytest
